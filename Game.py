@@ -93,5 +93,9 @@ print("\nFor whatever you may find, good night, and good luck\n")
 # Continue
 input("\n<Press Enter to continue>\n")
 
+# Enter a Command Loop
+print("\n Enter a Command"\n")
+input()
+
 # Demo Ending Credits
 print("\n Demo created by Ryan Piasecki\n")
