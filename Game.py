@@ -8,6 +8,9 @@
 print("\nMomentous"
       "\n=========\n")
 
+# Create List of Locales
+mylist = ['Battered Beach','Forbidden Forest','Wanderer Lake','Dead Man Land','Heaven Reach','Obelisk of Time']
+
 # Introduction to the game
 print("\n...How long has it been..."
       "\nMinutes..?...Hours..?..Days..?"
