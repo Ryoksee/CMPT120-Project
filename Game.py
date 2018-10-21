@@ -11,6 +11,12 @@ print("\nMomentous"
 # Create List of Locales
 mylist = ['Battered Beach','Forbidden Forest','Wanderer Lake','Dead Man Land','Heaven Reach','Obelisk of Time']
 
+# Create Global variables for Locale and Score
+currentLocale=""
+currentScore=0
+
+
+
 # Introduction to the game
 print("\n...How long has it been..."
       "\nMinutes..?...Hours..?..Days..?"
@@ -85,7 +91,7 @@ input("\nPress Enter to continue\n")
 print("\nFor whatever you may find, good night, and good luck\n")
 
 # Continue
-input("\n<Press Enter to end the Demo>\n")
+input("\n<Press Enter to continue>\n")
 
 # Demo Ending Credits
 print("\n Demo created by Ryan Piasecki\n")
